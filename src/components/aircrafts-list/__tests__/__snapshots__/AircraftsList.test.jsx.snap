@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AircraftsList should display correctly the list of aircrafts 1`] = `
+<div>
+  <h2>
+    We have 
+    1
+     aircrafts
+  </h2>
+  <div
+    class="aircraftsList"
+  >
+    <div
+      class="aircraftContainer"
+    >
+      <div>
+        GABCD
+         
+        A320
+      </div>
+      <div>
+        0
+        %
+      </div>
+    </div>
+  </div>
+</div>
+`;

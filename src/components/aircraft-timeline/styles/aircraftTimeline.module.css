@@ -1,0 +1,24 @@
+.aircraftTimelineContainer {
+  position: relative;
+  margin: 0 10px;
+  height: 50px;
+  border: 1px solid #666;
+  border-radius: 5px;
+}
+
+.flightEntry {
+  position: absolute;
+  height: 100%;
+}
+
+.flightType {
+  background-color: #2ecc71;
+}
+
+.turnaroundType {
+  background-color: #9b59b6;
+}
+
+.idleType {
+  background-color: #eee;
+}
